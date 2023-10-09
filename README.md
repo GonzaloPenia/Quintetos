@@ -33,10 +33,10 @@ Para el caso de la opción para 2 jugadores, los jugadores debe completar una ro
 
 * Una vez finalizada la partida, se muestra el nombre del jugador/es y el puntaje obtenido durante el juego.
 
-*Si se desea comprobar el funcionamiento correcto el juego permite simular jugadas. 
+* Si se desea comprobar el funcionamiento correcto el juego permite simular jugadas. 
 
 
-"Combinaciones ganadoras":
+*COMBINACIONES GANADORAS:
 
 SUMA DE DADOS: Menos de 3 dados con valores iguales. Se suman los valores de todos los dados.
 Ejemplo: 6+5+5+2+2+1= 21 puntos
