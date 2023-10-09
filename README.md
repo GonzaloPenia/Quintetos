@@ -3,7 +3,7 @@ Desarrollado por:
 Gonzalo José Peña Franco y Juan Pablo Diez.
 
 Juego de dados similar a la tradicional generala.
-El objetivo del juego es obtener al menos 500 puntos en la menor cantidad posible de  rondas, o sacar una escalera en un lanzamiento.
+El objetivo del juego es obtener al menos 500 puntos en la menor cantidad posible de rondas, o sacar una escalera en un lanzamiento.
 
 Una ronda está compuesta por 3 lanzamientos. 
 Un lanzamiento consiste en tirar seis dados y evaluar sus valores para determinar el puntaje.
