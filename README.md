@@ -36,7 +36,7 @@ Para el caso de la opción para 2 jugadores, los jugadores debe completar una ro
 * Si se desea comprobar el funcionamiento correcto el juego permite simular jugadas. 
 
 
-*COMBINACIONES GANADORAS:
+* COMBINACIONES GANADORAS:
 
 SUMA DE DADOS: Menos de 3 dados con valores iguales. Se suman los valores de todos los dados.
 Ejemplo: 6+5+5+2+2+1= 21 puntos
